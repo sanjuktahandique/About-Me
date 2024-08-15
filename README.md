@@ -13,6 +13,6 @@ I am a motivated and enthusiastic developer.<br>I have foundational knowledge in
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjuktahandique&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sanjuktahandique&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 

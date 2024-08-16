@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a motivated and enthusiastic developer.<br>I have foundational knowledge in C, C++, HTML, Java Script, PHP, SQL.<br>Currently I am exploring the field of Data Analysis<br>I am committed to continuous learning, skill development and daily problem solving.<br>
+I am a motivated and enthusiastic developer.<br>I have foundational knowledge in C, C++, HTML, JavaScript, PHP, SQL.<br>Currently I am exploring the field of Data Analysis<br>I am committed to continuous learning, skill development and daily problem solving.<br>
 
 
 ## 🌐 Socials:
